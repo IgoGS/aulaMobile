@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="clima">
+  <head>
+    <meta charset="UTF-8">
+
+    <title>Dados Clima</title>
+      <!-- ionic/angularjs js -->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <!-- cordova script (this will be a 404 during development) -->
+      <script src="js/ng-cordova.min.js"></script>
+    <script src="cordova.js"></script>
+   <!---- <meta http-equiv="Content-Security-Policy" content="default-src*;"> -->
+  
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">    
+
+    <!-- your app's js -->
+    <script src="js/app.js"></script>
+  </head>
+    
+  <body ng-controller="climaController">
+      
+    <ion-pane>
+        
+      <ion-header-bar class="bar-dark">
+        <h1 class="title">Clima em Tempo Real</h1>
+      </ion-header-bar>
+        
+      <ion-content>                              
+          <ion-list>
+              <ion-item >
+                  <h2>{{nomeCidade}}, {{siglaPais}}</h2>                  
+                  <img src={{iconeClima}}>
+                  <p>Descrição: {{descricao}}</p>
+                  <p>Temperatura: {{temperatura}} °C</p>                  
+                  <p>Vento: {{vento}} km/s</p>   
+                  <p>Humidade: {{humidade}} %</p>   
+                  <p>Pressão: {{pressao}} hpa</p>
+                  <p>Longitude: {{longitude}}</p>
+                  <p>Latitude: {{latitude}}</p>
+              </ion-item>
+          </ion-list>          
+      </ion-content>
+        
+    </ion-pane>
+      
+  </body>
+</html>

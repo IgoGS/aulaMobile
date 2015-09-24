@@ -1,0 +1,18 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/aulaMobile/clima/plugins/cordova-plugin-splashscreen/tests/tests.js",
+        "C:/aulaMobile/clima/plugins/cordova-plugin-splashscreen/www/windows/SplashScreenProxy.js",
+        "C:/aulaMobile/clima/plugins/cordova-plugin-splashscreen/www/splashscreen.js",
+        "C:/aulaMobile/clima/plugins/cordova-plugin-whitelist/whitelist.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/Lawnchair-adapter/test-www/lib/json2.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/Lawnchair-adapter/test-www/lib/lawnchair.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/Lawnchair-adapter/test-www/lib/qunit.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/Lawnchair-adapter/test-www/lawnchair-spec.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/Lawnchair-adapter/test-www/Lawnchair-sqlitePlugin.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/Lawnchair-adapter/Lawnchair-sqlitePlugin.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/spec/www/lib/jasmine-2.2.0/boot.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/spec/www/lib/jasmine-2.2.0/console.js",
+        "C:/aulaMobile/clima/plugins/io.litehelpers.cordova.sqlite/spec/www/lib/jasmine-2.2.0/jasmine-html.js",
+        "C:/aulaMobile/clima/www/js/app.js"
+    ]
+}
