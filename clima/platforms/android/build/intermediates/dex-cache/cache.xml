@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\aulaMobile\clima\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4dbc8204a747d90df8e78e6b092ad590d5b4a46d">
+        <dex dex="C:\aulaMobile\clima\platforms\android\build\intermediates\pre-dexed\debug\classes-d74a9864cc608b0a2c5c6324352b51bed9c0edcd.jar" />
+    </item>
+    <item
+        jar="C:\aulaMobile\clima\platforms\android\libs\sqlite-connector.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="74cbd33faef2706f8fd2c2677cde8b63621b42d3">
+        <dex dex="C:\aulaMobile\clima\platforms\android\build\intermediates\pre-dexed\debug\sqlite-connector-8aecbd1a9b15d1fdee47772551b12d626150a0cb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,3 @@
+C:\aulaMobile\clima\platforms\android\build\intermediates\classes\debug
+C:\aulaMobile\clima\platforms\android\build\intermediates\pre-dexed\debug\sqlite-connector-8aecbd1a9b15d1fdee47772551b12d626150a0cb.jar
+C:\aulaMobile\clima\platforms\android\build\intermediates\pre-dexed\debug\classes-d74a9864cc608b0a2c5c6324352b51bed9c0edcd.jar
